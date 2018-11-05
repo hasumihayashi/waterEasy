@@ -1,11 +1,13 @@
 # hacknjit18
 
-A new Flutter project.
+A new Flutter project built in a few hours at hackNJIT.
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+# [Introductory video to WaterEasy](https://www.youtube.com/watch?v=o3ofM5KlThs)
 
 # Inspiration
 We will soon face a crisis.
