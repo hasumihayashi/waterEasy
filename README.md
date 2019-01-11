@@ -1,6 +1,6 @@
 # hacknjit18
 
-A new Flutter project built in a few hours at hackNJIT.
+A new Flutter project built within 24-hours at hackNJIT. Won 2nd place overall and two sponsor awards. 
 
 ## Getting Started
 
@@ -8,6 +8,15 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 # [Introductory video to WaterEasy](https://www.youtube.com/watch?v=o3ofM5KlThs)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Big thanks to Tata Consultancy Services for providing the hardware kit at the hackathon. 
+
 
 # Inspiration
 We will soon face a crisis.
